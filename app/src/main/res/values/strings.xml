@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+    <string name="preference_file_key">Zappos</string>
+    <string name="preference_userID">ID</string>
+    <string name="title_activity_detail">Product Details</string>
+    <string name="action_share">Share</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_settings">Setting</string>
+    <string name="query">What are you looking for?</string>
+    <string name="search">Search</string>
+    <string name="Detail"> Details </string>
+    <string name="error_message">
+        Failed to get results. Please try again.
+    </string>
+    <string-array name="planets_array">
+        <item>Quantity: 1</item>
+        <item>Quantity: 2</item>
+        <item>Quantity: 3</item>
+        <item>Quantity: 4</item>
+    </string-array>
+</resources>
