@@ -7,7 +7,7 @@
 
 
 ##Introduction:
-1. MainActivity:
+1. MainActivity
   * Use **Retrofit** handle REST requests
   * Validate internet connection and query result
   * Pass valid result to ChildActivity
